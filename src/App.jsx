@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import { Toaster } from '@/components/ui/toaster';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import Showcase from '@/components/Showcase';
 import Signature from '@/components/Signature';
 import Process from '@/components/Process';
 import WhyUs from '@/components/WhyUs';
@@ -26,6 +27,7 @@ function App() {
       
       <Header />
       <Hero />
+      <Showcase />
       <Signature />
       <Process />
       <WhyUs />
