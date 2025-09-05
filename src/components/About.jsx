@@ -91,10 +91,9 @@ const About = () => {
           >
             <h3 className="text-3xl font-bold mb-6 text-[#ffd700]">L'histoire d'E4_agency</h3>
             <p className="text-xl text-gray-300 leading-relaxed max-w-4xl mx-auto">
-              E4_agency est né de la conviction que chaque entrepreneur a une histoire unique à raconter. 
-              Dans un monde saturé de publicités froides, nous avons choisi de créer du contenu authentique 
-              qui transforme nos clients en leur propre média. Comme des lunes dans une constellation, 
-              chaque client brille de sa propre lumière tout en faisant partie d'un ensemble plus grand.
+              E4_agency est né de la conviction que chaque entrepreneur a une histoire unique à raconter.
+              Dans un monde saturé de publicités froides, nous avons choisi de créer du contenu authentique
+              qui transforme nos clients en leur propre média.
             </p>
           </motion.div>
         </div>
